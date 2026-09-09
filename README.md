@@ -1,9 +1,4 @@
-## Olá me mundo, me chamo Crysthian Santana 
-
-- Atualmente no 3º período na Estácio em Sistemas de informação e simultaneamente a isso estou no 1º período de Engenharia de controle em automação na UTFPR.
-- Minha paixão para ser desenvolvedor começou no IFRO, onde me conclui o curso técnico integrado ao ensino médio de TI.
-- Acredito que a prática leva à perfeição.
-
+## Olá mundo, me chamo Crysthian Santana 
 ##
 
 ![Status perfil](https://github-readme-stats.vercel.app/api?username=crysthianko&show_icons=true&theme=transparent )
